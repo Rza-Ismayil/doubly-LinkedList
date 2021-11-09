@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef int item;
+typedef int item; // "int" can be changed with the desired data type
 
 typedef struct linkedlist
 {
